@@ -11,3 +11,11 @@
   4、嘴动特征疲劳驾驶识别：哈欠频率
   
   5、轻度异常行为识别：抽烟行为、喝水行为
+
+![image](https://github.com/GuoJaw/Graduation_Design_of_Postgraduates/blob/master/demo_image/s1.png)
+![image](https://github.com/GuoJaw/Graduation_Design_of_Postgraduates/blob/master/demo_image/q2.png)
+![image](https://github.com/GuoJaw/Graduation_Design_of_Postgraduates/blob/master/demo_image/q3.png)
+![image](https://github.com/GuoJaw/Graduation_Design_of_Postgraduates/blob/master/demo_image/q4.png)
+![image](https://github.com/GuoJaw/Graduation_Design_of_Postgraduates/blob/master/demo_image/q5.png)
+![image](https://github.com/GuoJaw/Graduation_Design_of_Postgraduates/blob/master/demo_image/q6.png)
+![image](https://github.com/GuoJaw/Graduation_Design_of_Postgraduates/blob/master/demo_image/q7.png)
